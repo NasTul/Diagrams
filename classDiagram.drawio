@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T07:17:05.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="iyhpW23ZIdU5bkylmb3C" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T07:18:07.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="yQtrWMN2bISjgFu4_95r" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="892" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -274,7 +274,7 @@
         <mxCell id="b4B3xjfFz9crl8QR97iu-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phone/HD Camera&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#9673a6;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="705" y="488.12" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b4B3xjfFz9crl8QR97iu-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wareable&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#9673a6;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="b4B3xjfFz9crl8QR97iu-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wearable device&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#9673a6;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="705" y="540" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
