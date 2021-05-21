@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T07:38:45.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="K0oTEwSLn07SxbyK0dkV" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T07:47:59.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Xp91BNYhr7kvAqDQoCvW" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -238,14 +238,8 @@
         <mxCell id="b4B3xjfFz9crl8QR97iu-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pattern Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="390" y="494.99" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b4B3xjfFz9crl8QR97iu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;" edge="1" parent="1" source="b4B3xjfFz9crl8QR97iu-3" target="b4B3xjfFz9crl8QR97iu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="b4B3xjfFz9crl8QR97iu-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pattern Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#9673a6;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="535" y="448.12" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4B3xjfFz9crl8QR97iu-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pattern Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="695" y="416.87" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b4B3xjfFz9crl8QR97iu-11" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt;Cancelable Templates&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="980" width="130" height="30" as="geometry" />
@@ -264,9 +258,6 @@
         </mxCell>
         <mxCell id="b4B3xjfFz9crl8QR97iu-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wearable device&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#9673a6;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="705" y="540" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4B3xjfFz9crl8QR97iu-19" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt;Continuous Authentication&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="705" y="923.75" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
