@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T16:58:09.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Y1je68upUwm5DRJu_FqY" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T16:58:19.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="8nTeGKLSN6otS9sUyW1m" version="14.8.2" type="github">
   <diagram id="PdgDb_l4S8uLQHHRexF-" name="Page-1">
     <mxGraphModel dx="772" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
             <mxPoint x="535" y="304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w487VURSWcqMjQgU4Q8g-28" value="&amp;nbsp;A Cardiac Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w487VURSWcqMjQgU4Q8g-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;A Cardiac Cycle&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="285" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
