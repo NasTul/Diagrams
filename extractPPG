@@ -1,0 +1,34 @@
+!pip install pyvhr
+!pip install tensorflow-gpu==2.5.0
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+import os 
+os.chdir('drive/MyDrive/rPPGtry/pyVHR')
+
+
+# -- Modules and packages to import for demo
+from pyVHR.signals.video import Video
+from pyVHR.methods.pos import POS
+from pyVHR.methods.chrom import CHROM
+
+import numpy as np
+import ast
+import plotly.graph_objects as go
+from scipy.signal import medfilt, detrend
+from abc import ABCMeta, abstractmethod
+from importlib import import_module
+from pyVHR.signals.bvp import BVPsignal
+from pyVHR.utils import filters, printutils
+from pyVHR.utils import detrending
+
+
+num = '6'
+# -- Video object
+videoFilename = "../datasets/UBFC_video/vid_s"+num+"_1/vid_s"+num+"_T1_1.avi"
+video = Video(videoFilename)
+
+# -- extract faces
+video.getCroppedFaces(detector='mtcnn', extractor='skvideo')
+video.printVideoInfo()
