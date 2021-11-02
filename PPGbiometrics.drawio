@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:29:18.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="i4OMUODDI_H458Uhk_5c" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T08:52:49.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="uh1PuiEtlMjyUQnP2-qj" version="15.6.5" type="github">
   <diagram id="QtWWgYvrMgOXeUdixoOA" name="Page-1">
-    <mxGraphModel dx="1317" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,8 +55,8 @@
         <mxCell id="zyXjHvI1NbI1ozkS3pf7-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;Classifier&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="547.51" y="810.0600000000001" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zyXjHvI1NbI1ozkS3pf7-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PPG-based Biometrics&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="653.44" y="654.5600000000001" width="162.51" height="30" as="geometry" />
+        <mxCell id="zyXjHvI1NbI1ozkS3pf7-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;PPG-based Biometric A&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;uthentication&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="664" y="658.56" width="162.51" height="45.44" as="geometry" />
         </mxCell>
         <mxCell id="zyXjHvI1NbI1ozkS3pf7-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Spoofing&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Attack&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="683" y="500.5" width="110" height="30" as="geometry" />
