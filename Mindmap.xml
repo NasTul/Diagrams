@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T03:38:24.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="s4g76iNFr8LP8rLsWSQo" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T03:38:36.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="aR9Tygq7UbHVKEgCbF3r" version="15.9.1" type="github">
   <diagram id="v2UUrLCDxz2rL0I3P7hU" name="Page-1">
     <mxGraphModel dx="861" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,32 +20,32 @@
             <mxPoint x="248.5" y="208.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qICcZHZwoi5JpJof2H2i-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wearability&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="323" width="87.5" height="20" as="geometry" />
+        <mxCell id="qICcZHZwoi5JpJof2H2i-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Wearability&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="346.5" y="323" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qICcZHZwoi5JpJof2H2i-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fillColor=#d5e8d4;strokeColor=#62F0BC;" parent="1" source="qICcZHZwoi5JpJof2H2i-2" target="qICcZHZwoi5JpJof2H2i-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405.5" y="231.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qICcZHZwoi5JpJof2H2i-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Continuity&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="347.25" width="87.5" height="20" as="geometry" />
+        <mxCell id="qICcZHZwoi5JpJof2H2i-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Continuity&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="346.5" y="347.25" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qICcZHZwoi5JpJof2H2i-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fillColor=#d5e8d4;strokeColor=#62F0BC;" parent="1" source="qICcZHZwoi5JpJof2H2i-2" target="qICcZHZwoi5JpJof2H2i-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405.5" y="231.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qICcZHZwoi5JpJof2H2i-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transparent&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="372.5" width="87.5" height="20" as="geometry" />
+        <mxCell id="qICcZHZwoi5JpJof2H2i-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Transparent&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="341.5" y="372.5" width="100" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="qICcZHZwoi5JpJof2H2i-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fillColor=#d5e8d4;strokeColor=#62F0BC;" parent="1" source="qICcZHZwoi5JpJof2H2i-2" target="qICcZHZwoi5JpJof2H2i-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405.5" y="231.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qICcZHZwoi5JpJof2H2i-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Accessibility&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="393.75" width="92.5" height="20" as="geometry" />
+        <mxCell id="qICcZHZwoi5JpJof2H2i-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Accessibility&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#62F0BC;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="343.5" y="393.75" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qICcZHZwoi5JpJof2H2i-12" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;Application Scenarios&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#60a917;strokeColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="215" y="470" width="150" height="30" as="geometry" />
