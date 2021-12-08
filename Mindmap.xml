@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T04:24:52.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="VigvqdBehzNFn8gKchj5" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T04:33:50.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="oiHp0JpazD2PQ8HpEk6i" version="15.9.1" type="github">
   <diagram id="v2UUrLCDxz2rL0I3P7hU" name="Page-1">
     <mxGraphModel dx="861" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,6 +185,38 @@
             <mxPoint x="483.5" y="240" as="sourcePoint" />
             <mxPoint x="514.75" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fillColor=#d5e8d4;strokeColor=#60A917;" edge="1" parent="1" target="UPKnbgNAFwdJxxbO7SKi-22" source="qICcZHZwoi5JpJof2H2i-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="486.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Access Control&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#60A917;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="434" width="107" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fillColor=#d5e8d4;strokeColor=#60A917;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="UPKnbgNAFwdJxxbO7SKi-24" source="qICcZHZwoi5JpJof2H2i-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="486.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Health Care&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#60A917;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="403" y="458.25" width="94" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fillColor=#d5e8d4;strokeColor=#60A917;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="UPKnbgNAFwdJxxbO7SKi-26" source="qICcZHZwoi5JpJof2H2i-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="486.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Monetary Transactions&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#60A917;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="404" y="478.5" width="149" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fillColor=#d5e8d4;strokeColor=#60A917;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="UPKnbgNAFwdJxxbO7SKi-28" source="qICcZHZwoi5JpJof2H2i-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="486.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPKnbgNAFwdJxxbO7SKi-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Communication&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Helvetica;fontSize=12;strokeColor=#60A917;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="503.5" width="120" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
