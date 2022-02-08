@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T00:52:11.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="0pLVqqjkxt_zr8hmfcmi" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T00:54:21.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="WaeX2UBXT25BhqZbvleu" version="16.5.3" type="github">
   <diagram id="CaVlc_650XlWZRCxEAs8" name="Page-1">
     <mxGraphModel dx="1161" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,6 +183,27 @@
         </mxCell>
         <mxCell id="-5E9kTBUmOlo2HqnFjoS-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;A Cardiac Cycle&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="179.5" y="-849.71" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-5E9kTBUmOlo2HqnFjoS-14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;Systolic Peak&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="376.78999999999996" y="-1030" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-5E9kTBUmOlo2HqnFjoS-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="418.37" y="-1010" as="sourcePoint" />
+            <mxPoint x="418.37" y="-995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="418.37" y="-998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5E9kTBUmOlo2HqnFjoS-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;Diastolic Peak&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="458" y="-1000" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-5E9kTBUmOlo2HqnFjoS-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="-979" as="sourcePoint" />
+            <mxPoint x="495" y="-959" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
