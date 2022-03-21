@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T03:22:54.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="qXd7NDpum2MJS1k7poas" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T03:23:21.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="mVkVkalnrK058MnveDt7" version="17.1.3" type="github">
   <diagram id="B4vnSId43AtEkDV2eU6S" name="Page-1">
     <mxGraphModel dx="928" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,8 +61,17 @@
         <mxCell id="OiPB5o-dJVJW2O6OFaFC-10" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; color: black ; font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;PURE&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OiPB5o-dJVJW2O6OFaFC-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;POS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="132" y="409" width="60" height="20" as="geometry" />
+        <mxCell id="OiPB5o-dJVJW2O6OFaFC-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;CHROM-H&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299.98" y="408.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OiPB5o-dJVJW2O6OFaFC-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;CHROM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134" y="408.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OiPB5o-dJVJW2O6OFaFC-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;LGI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467" y="408.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OiPB5o-dJVJW2O6OFaFC-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;LGI-H&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="629.13" y="408.5" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
