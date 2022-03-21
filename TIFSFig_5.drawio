@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T03:20:26.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="8smpRI4Xp4kZkXvp3-3d" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T03:20:44.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="0THXZwG1XmJ_OFo-nGrw" version="17.1.3" type="github">
   <diagram id="B4vnSId43AtEkDV2eU6S" name="Page-1">
     <mxGraphModel dx="928" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="OiPB5o-dJVJW2O6OFaFC-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;LGI-H&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="627.13" y="251" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OiPB5o-dJVJW2O6OFaFC-10" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; color: black ; font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;PURE&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
