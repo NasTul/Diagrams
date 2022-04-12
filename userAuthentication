@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T03:24:32.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="smT_QCk4NVW54l7MneFf" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T03:25:07.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Qe-KUFTh88E7qTl4UC0t" version="17.4.3" type="github">
   <diagram id="LswGu0vd4je19yudNYwi" name="Page-1">
     <mxGraphModel dx="1136" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="6B2Kh1FTU_ciY9-2i3CG-7" value="Signal Acquisition Layer" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="234" y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6B2Kh1FTU_ciY9-2i3CG-8" value="Noise Filter Layer" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="6B2Kh1FTU_ciY9-2i3CG-8" value="Noise Filter Layer(s)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="234" y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6B2Kh1FTU_ciY9-2i3CG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -35,7 +35,7 @@
             <mxPoint x="474" y="209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6B2Kh1FTU_ciY9-2i3CG-9" value="Feature Capture Layer" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="6B2Kh1FTU_ciY9-2i3CG-9" value="Feature Capture Layer(s)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="234" y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6B2Kh1FTU_ciY9-2i3CG-11" value="Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
