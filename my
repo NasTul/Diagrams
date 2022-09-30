@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T12:17:30.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8whe0hAMliTL2TaSgnfu" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T12:45:15.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hSPpQzqCEXRnvbVWlDBW" version="20.3.7" type="github">
   <diagram id="jXCClQs2rTexu2Mw-Wll" name="Page-1">
-    <mxGraphModel dx="1388" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,12 +69,6 @@
         </mxCell>
         <mxCell id="IaO1MHJ2t27EezkkRNcV-137" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Second Derivative PPG Signals&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="470" y="1030" width="189.41" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IaO1MHJ2t27EezkkRNcV-139" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;A1&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Area&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="110" y="670" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IaO1MHJ2t27EezkkRNcV-140" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;A2&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Area&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dHAxGD4VjWWTVbezaZ6J-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;a2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="70" y="893" width="60" height="30" as="geometry" />
@@ -150,9 +144,6 @@
             <mxPoint x="516" y="626" as="sourcePoint" />
             <mxPoint x="130" y="626" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tysH3a110EC_HycVEhcV-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Width&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="276" y="623" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tysH3a110EC_HycVEhcV-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
